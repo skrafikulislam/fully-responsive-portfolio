@@ -17,5 +17,5 @@ function NewTabGithub() {
 }
 
 function MyResume() {
-  window.open("./assests/Sk Rafikul Islam Resume.pdf", "_blank");
+  window.open("./assests/Sk Rafikul Islam ---- Resume.pdf", "_blank");
 }
